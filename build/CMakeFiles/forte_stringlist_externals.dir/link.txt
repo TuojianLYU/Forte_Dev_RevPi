@@ -1,0 +1,2 @@
+/usr/bin/ar qc libforte_stringlist_externals.a 
+/usr/bin/ranlib libforte_stringlist_externals.a
